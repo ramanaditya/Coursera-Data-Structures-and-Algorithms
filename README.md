@@ -1,2 +1,7 @@
-# algorithm-toolbox
-Different Algorithmic problems solved using python3.7.0
+# Data Structures and Algorithms
+<hr>
+The repository contains solutions of different Data Structures and Algorithmic problems
+<ul>
+  <li>Algorithmic Toolbox</li>
+  <li>Data Structures</li>
+</ul>
